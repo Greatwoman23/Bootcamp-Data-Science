@@ -2,18 +2,24 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+The task is to create a jupyter journey notebook
+The task is to create a jupyter journey notebook printing hello world
+The task is to create a jupter journey notebook that has multiple cells and runs with multiple cells.
 
 ## Description
-TODO - How have you solved the problem?
+I created a jupyter journey notebook,then I created a directory and 
+printed Hello World" and also creating multitple cells in the notebook.
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+I installed jupyter notebook using web/browser from the docode.
 
 ## Usage
-TODO - How does it work?
+The jupyter noebook works by using the notebook from the docode, after adding web to the https line
+,you press enter,you then you input your password and start working on the project from the notebook,.
+From the notebook,I created a terminal which i used in applying gandalf the AI and also commiting the projects.
+Also, the quest requires to rename them in the note book
 ```
-./my_project argument1 argument2
+./open the notebook from the docode by using the web access.
 ```
 
 ### The Core Team
